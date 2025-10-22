@@ -53,6 +53,10 @@ const App = () => {
           <Route index element={<Singin />} />
           <Route path="singin" element={<Singin />} />
         </Route> */}
+        {/* <Route path="auth">
+          <Route index element={<Singin />} />
+          <Route path="singin" element={<Singin />} />
+        </Route> */}
       </Routes>
     </>
   );
