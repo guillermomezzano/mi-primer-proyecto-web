@@ -1,0 +1,13 @@
+.conteiner {
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+th, td {
+    border: 1px white solid;
+}
+
+img {
+    cursor:pointer
+}
